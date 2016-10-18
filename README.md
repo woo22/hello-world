@@ -1,3 +1,2 @@
 # Wooruno
-
-hwaito hwaito
+base
